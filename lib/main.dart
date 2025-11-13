@@ -1,3 +1,4 @@
+
 import 'package:flutter/material.dart';
 import 'package:weatherapp/home/exercise1.dart';
 import 'package:weatherapp/home/exercise2.dart';
@@ -27,4 +28,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
